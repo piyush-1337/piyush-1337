@@ -1,4 +1,4 @@
-# Hi there, I'm Piyush Katkar 👋
+# Hi there, I'm Piyush 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CSE+Student+%40+IIT+Tirupati;Rust+%26+C%2B%2B+Enthusiast;Linux+%7C+Arch;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
