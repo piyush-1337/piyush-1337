@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 CSE Student @ IIT Tirupati u💻 Passionate about **C++**, **Rust**, **Java**, and **Web Development**  
-🐧 Linux Enthusiast
+🐧 Linux Enthusiast  
 📚 Exploring **Open Source**
 
 ---
