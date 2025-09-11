@@ -1,14 +1,14 @@
 # Hi there, I'm Piyush Katkar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CSE+Student+%40+IIT+Tirupati;Rust+%26+C%2B%2B+Enthusiast;Linux+%7C+Arch+%7C+Hyprland+Lover;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CSE+Student+%40+IIT+Tirupati;Rust+%26+C%2B%2B+Enthusiast;Linux+%7C+Arch;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 
 🎓 CSE Student @ IIT Tirupati u💻 Passionate about **C++**, **Rust**, **Java**, and **Web Development**  
-🐧 Linux Enthusiast (Arch + Hyprland)  
-📚 Exploring **Open Source** and **Ethical Hacking**
+🐧 Linux Enthusiast
+📚 Exploring **Open Source**
 
 ---
 
