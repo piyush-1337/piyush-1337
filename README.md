@@ -1,4 +1,4 @@
-# Hi there, I'm Piyush 👋
+# Hi, I'm Piyush 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CSE+Student+%40+IIT+Tirupati;Rust+%26+C%2B%2B+Enthusiast;Linux+%7C+Arch;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
@@ -6,8 +6,9 @@
 
 ## 🚀 About Me
 
-🎓 CSE Student @ IIT Tirupati u💻 Passionate about **C++**, **Rust**, **Java**, and **Web Development**  
-🐧 Linux Enthusiast  
+🎓 CSE Student @ IIT Tirupati  
+💻 Passionate about **C++**, **Rust**, **Java**, and **Web Development**  
+🐧 **Linux** Enthusiast  
 📚 Exploring **Open Source**
 
 ---
@@ -23,7 +24,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Piyush_9421)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-katkar-a59997335/)  
