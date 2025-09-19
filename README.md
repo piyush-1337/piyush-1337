@@ -11,6 +11,13 @@
 
 ---
 
+## 📌 Pinned Projects
+
+[![Game](https://github-readme-stats.vercel.app/api/pin/?username=piyush-1337&repo=Game&theme=radical)](https://github.com/piyush-1337/Game)  
+[![AppDevProject](https://github-readme-stats.vercel.app/api/pin/?username=SoftwareEnggProjectsIITT&repo=AppDevProject&theme=radical)](https://github.com/SoftwareEnggProjectsIITT/AppDevProject)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -40,13 +47,6 @@
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-1337&theme=radical)
-
----
-
-## 📌 Pinned Projects
-
-[![Game](https://github-readme-stats.vercel.app/api/pin/?username=piyush-1337&repo=Game&theme=radical)](https://github.com/piyush-1337/Game)  
-[![AppDevProject](https://github-readme-stats.vercel.app/api/pin/?username=SoftwareEnggProjectsIITT&repo=AppDevProject&theme=radical)](https://github.com/SoftwareEnggProjectsIITT/AppDevProject)
 
 ---
 
