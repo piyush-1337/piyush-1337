@@ -2,23 +2,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 CSE Student @ IIT Tirupati  
-💻 Passionate about **C++**, **Rust**, **Java**, and **Web Development**  
-🐧 **Linux** Enthusiast  
-📚 Exploring **Open Source**
+- CSE Student @ IIT Tirupati
+- Passionate about **C++**, **Rust**, **Java**, and **Web Development**
+- **Linux** Enthusiast
+- Exploring **Open Source**
 
 ---
 
-## 📌 Pinned Projects
+## Pinned Projects
 
 [![Game](https://github-readme-stats.vercel.app/api/pin/?username=piyush-1337&repo=Game&theme=radical)](https://github.com/piyush-1337/Game)  
 [![AppDevProject](https://github-readme-stats.vercel.app/api/pin/?username=SoftwareEnggProjectsIITT&repo=AppDevProject&theme=radical)](https://github.com/SoftwareEnggProjectsIITT/AppDevProject)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Piyush_9421)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-katkar-a59997335/)  
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-1337&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-1337&layout=compact&theme=radical)  
@@ -49,12 +49,8 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-1337&theme=radical)
 
 ---
-
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=piyush-1337&style=for-the-badge)
