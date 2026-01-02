@@ -5,9 +5,8 @@
 ## About Me
 
 - CSE Student @ IIT Tirupati
-- Passionate about **C++**, **Rust**, **Java**, and **Web Development**
+- Passionate about **Rust**, **C++**, **Web3**, **Java**, and **Web Development**
 - **Linux** Enthusiast
-- Exploring **Open Source**
 
 ---
 
@@ -42,15 +41,6 @@
 
 ## GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-1337&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-1337&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=piyush-1337&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=piyush-1337&theme=radical&margin-w=10&margin-h=10)
-
----
-
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-1337&theme=radical)
 
 ---
